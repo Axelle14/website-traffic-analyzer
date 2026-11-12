@@ -1,0 +1,9 @@
+Website Traffic Analysis
+========================
+Date range: 2026-10-01 to 2026-10-03
+Traffic records: 9
+Total visitors: 2,231
+Total page views: 4,204
+Visitor-weighted bounce rate: 40.1%
+Visitor-weighted average session duration: 127.9 seconds
+Most-viewed page: / (2,290 page views)
